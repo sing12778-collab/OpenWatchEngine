@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "project": "OpenWatch Engine",
+  "status": "local-alpha-candidate",
+  "files": [
+    {
+      "path": ".github/workflows/tests.yml",
+      "bytes": 459,
+      "sha256": "92378a0f1e38fac4c5f1b9e498877b8e5fc3679d517a1090c5063a25ceebb64b"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 83,
+      "sha256": "15c20c845ddf65c03d4051b131a22fc9299a2b6856acdc34c1f23db57930a82f"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 635,
+      "sha256": "cb8d0783f6b176d0c6f85dae214a20cb1692e683514b1875238aa105a4eb8de7"
+    },
+    {
+      "path": "docs/architecture.md",
+      "bytes": 3944,
+      "sha256": "aa3f9e8ab2609adcbd382d810c12384a6a9c507c697510328c5237e5c046eb99"
+    },
+    {
+      "path": "docs/http-runner.md",
+      "bytes": 5712,
+      "sha256": "9791c640b8d4666fbac709b9f7feb6efad4d13b54ed93f4e3c1da402a179032d"
+    },
+    {
+      "path": "docs/roadmap.md",
+      "bytes": 2902,
+      "sha256": "5b6a8b565413f891036f380bc4cd9913c8446ff50cf243a8d01a49828cf39869"
+    },
+    {
+      "path": "examples/releases.json",
+      "bytes": 82,
+      "sha256": "38f7033641b6204b7e0574cf0be2b493efc999bbea2b8bac091ad233ff56c7db"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1086,
+      "sha256": "ebafd5f43db798e6eaf257c54b1af0774e6856496af023740c6daca5b5728bee"
+    },
+    {
+      "path": "openwatch/__init__.py",
+      "bytes": 201,
+      "sha256": "259a0cd5baf656380b28e2032f5e9609e55320eee0ba49077a29edb9e847b556"
+    },
+    {
+      "path": "openwatch/__main__.py",
+      "bytes": 4329,
+      "sha256": "5c9eee7781a3133350c6827d32d5c94266140168fff038d7acb3c1769cf49935"
+    },
+    {
+      "path": "openwatch/adapters.py",
+      "bytes": 1806,
+      "sha256": "be565fa62fc5bb024fcb2d9ecc8411bbf1f1966400f247ca56a171825015fcd6"
+    },
+    {
+      "path": "openwatch/engine.py",
+      "bytes": 11703,
+      "sha256": "e3499c89e61001c4ade6acf24592aa01a311023621bc5d156c2294ee66906b72"
+    },
+    {
+      "path": "openwatch/http.py",
+      "bytes": 5095,
+      "sha256": "8c4d82c0793bee3ac7ca6b96acdb9b2935bfc4742607747659cc169ff216f0aa"
+    },
+    {
+      "path": "openwatch/runner.py",
+      "bytes": 4905,
+      "sha256": "04a711b4a1e04511aeba648458947c8aacbdd37ecc1fc96d4596ac771044516a"
+    },
+    {
+      "path": "pyproject.toml",
+      "bytes": 508,
+      "sha256": "fe86fad76840dbcda058fc0170849d3533866152f0dede435fb3117ab4e4014d"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5384,
+      "sha256": "180165c3824e966dd8d28d74a049fcc74e86a9f2b379e334aadbf22d2b2cb314"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 564,
+      "sha256": "2720b76975b577e33483cc788d2dd491338319d3e1a7c92383d398fbb53b5630"
+    },
+    {
+      "path": "tests/test_dispatch_fairness.py",
+      "bytes": 2112,
+      "sha256": "42753c9906f4defe260c6358c124c2103e89065d07197c8582d6a7327af876ef"
+    },
+    {
+      "path": "tests/test_engine.py",
+      "bytes": 4338,
+      "sha256": "f10b4413554e87098c28cbb0efd14bfe7169c2943b2f9c982b8eba639a9a25ae"
+    },
+    {
+      "path": "tests/test_http.py",
+      "bytes": 9280,
+      "sha256": "54a96b13cfa2f467328852817a95723269d5e556f997cd915c7f84e55eb1c28d"
+    },
+    {
+      "path": "tests/test_runner.py",
+      "bytes": 3780,
+      "sha256": "898711e7637beb70a9e9f3af6c4dbf4354007f174a79a11823ef3ebd39ef637f"
+    },
+    {
+      "path": "tests/test_http_cache_isolation.py",
+      "bytes": 3507,
+      "sha256": "a477ae870073baed9bbabbc930ff8b0e6c08bec1feb9ba5ef1ae75efc9f12c9c"
+    },
+    {
+      "path": "tests/test_validation_contract.py",
+      "bytes": 5417,
+      "sha256": "a3b636d7ad14a6830308c7ba16f7164a34d0e41a65e3e8db3b54bd3dd10098ea"
+    },
+    {
+      "path": "tests/test_failure_reporting.py",
+      "bytes": 5459,
+      "sha256": "868ced24e333e087af1afb13871a6a88cd7b7033a43356cdda40bf6d4383374b"
+    },
+    {
+      "path": "tests/test_ack_recovery.py",
+      "bytes": 4886,
+      "sha256": "d90bd234cfd213ce049f08f235271cf7007f6d9173fc0f19e7c57ee0cfc7b753"
+    },
+    {
+      "path": "tests/test_global_storage_failure.py",
+      "bytes": 2879,
+      "sha256": "129bc67c4d6e01899bdf7413aa4474e3a1a78a431fd32b8cd8efea8408ab77de"
+    }
+  ]
+}
